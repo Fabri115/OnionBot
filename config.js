@@ -56,16 +56,16 @@ global.pgopay = '-'
 global.plinkaja = '-'
 global.ppulsa = '085892710203' 
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/BlueShi'
+global.psaweria = 'https://saweria.co/Fabri'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285892710203'
-global.nomorown = '62858927102031'
-global.namebot = 'Onion Bot'
-global.nameown = 'Purwandani'
+global.nomorbot = '5511939599959'
+global.nomorown = '393518398856'
+global.namebot = 'Fabri Bot'
+global.nameown = 'Fabri'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Onion Development'
+global.namagithub = 'Fab Development'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
